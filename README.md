@@ -8,9 +8,9 @@
     URLnn, init_importance: text containing some URLnn
 ```
 
--     `URLnn`: The URL of the page.
--     `init_importance`: A number between 0 and 1.0 representing the initial importance of the page.
--     `text containing some URLnn`: The text of the page, which may contain references (URLs) to other pages.
+-`URLnn`: The URL of the page.
+-`init_importance`: A number between 0 and 1.0 representing the initial importance of the page.
+-`text containing some URLnn`: The text of the page, which may contain references (URLs) to other pages.
 
 ## Usage
     To run the program, ensure you have a file named `pages.txt` in the same directory as the script. Modify the script to specify the value of `N` (the number of top pages to display) if needed. Then, execute the script using a Python interpreter.
