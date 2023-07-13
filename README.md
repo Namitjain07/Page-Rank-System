@@ -15,7 +15,9 @@
 ## Usage
     To run the program, ensure you have a file named `pages.txt` in the same directory as the script. Modify the script to specify the value of `N` (the number of top pages to display) if needed. Then, execute the script using a Python interpreter.
 
-    python "Page Rank System.py"
+```python
+python "Page Rank System.py"
+```
 
 ## Example
     Given the input file `pages.txt`:
